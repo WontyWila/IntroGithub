@@ -8,4 +8,4 @@ Sesion de Github
 
 Insertamos imagen 
 
-![Mila](IMG/descarga.png)
+![Mila](IMG/descarga.jpg)
